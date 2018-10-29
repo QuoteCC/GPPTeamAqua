@@ -10,3 +10,11 @@ friction = 3;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "powerUp"
 powerUp = 1;
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 0C688B42
+/// @DnDArgument : "code" "hsp = 0;$(13_10)vsp = 0;$(13_10)spd = 5;"
+hsp = 0;
+vsp = 0;
+spd = 5;
