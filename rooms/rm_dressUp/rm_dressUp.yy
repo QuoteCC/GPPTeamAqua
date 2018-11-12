@@ -40,7 +40,7 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRPathLayer",
-            "pathId": "d398bafc-08f0-4804-a2a7-238da6bc96bc",
+            "pathId": "00000000-0000-0000-0000-000000000000",
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": true
