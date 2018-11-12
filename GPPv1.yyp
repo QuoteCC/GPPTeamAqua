@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "2b1db35a-1df8-4daa-8e6a-f9577fd47d64",
+            "Value": {
+                "id": "ea1187d9-36eb-46ea-ac51-d302ab5398be",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/sc_ClothMove\/sc_ClothMove.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "30787a15-50bf-47bb-be42-cb94f3c03714",
             "Value": {
                 "id": "34f63858-4397-4ab4-90f2-1e325d5d5688",
@@ -262,26 +281,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/ob_hat\/ob_hat.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "3ffd6795-c8c9-47b1-9e66-201fd7ca959b",
-            "Value": {
-                "id": "00efe7d6-b845-4046-b149-c3b85188b489",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/ob_handler\/ob_handler.yy",
+                "resourcePath": "objects\/ob_hat1\/ob_hat1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -435,6 +435,25 @@
                 ],
                 "resourcePath": "sprites\/sp_gurl\/sp_gurl.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b67e2b5-6706-4950-8eaa-5c11a94f3405",
+            "Value": {
+                "id": "a236366d-9728-4163-83a8-8ee1bc50f408",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/ob_hat3\/ob_hat3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1025,11 +1044,31 @@
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "fcfd604f-1401-42c1-adf2-b26bdde33eb1",
+            "Value": {
+                "id": "4933a6b4-fdd2-43eb-b039-1b40ac42ec82",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/ob_hat2\/ob_hat2.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
         "0f299d97-123e-4c8a-be0a-d9039aa763ab",
-        "cee469a7-e694-477e-82b2-e8cf7d7ba6ce"
+        "cee469a7-e694-477e-82b2-e8cf7d7ba6ce",
+        "2b1db35a-1df8-4daa-8e6a-f9577fd47d64"
     ],
     "tutorial": ""
 }
