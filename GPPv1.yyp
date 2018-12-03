@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "5d9e3dc8-d03b-45bb-8c2a-4a7249d89574",
+            "Value": {
+                "id": "c6618a56-3c40-4fd2-adc8-74ff74532a0a",
+                "resourcePath": "sounds\\sd_rotate\\sd_rotate.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "66291287-4727-4451-aa8b-86162b427bb0",
             "Value": {
                 "id": "2e4ff207-f784-42a2-ab5d-bfc4b1b9c219",
