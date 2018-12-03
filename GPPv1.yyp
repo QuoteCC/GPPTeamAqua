@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "54b61d47-5f73-40a6-895b-95c4b74c6234",
+            "Value": {
+                "id": "eb9ddbb9-afed-426d-a988-d1d798e62733",
+                "resourcePath": "views\\54b61d47-5f73-40a6-895b-95c4b74c6234.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5616d7fa-5fe1-4583-849d-fccdcea24ec3",
             "Value": {
                 "id": "1d926b7c-33a6-4f71-9e28-4ac307693836",
@@ -387,6 +395,14 @@
             "Value": {
                 "id": "2e4ff207-f784-42a2-ab5d-bfc4b1b9c219",
                 "resourcePath": "views\/66291287-4727-4451-aa8b-86162b427bb0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6714f16d-62b4-4c50-bb85-2803bac04cec",
+            "Value": {
+                "id": "9e8c36d9-f096-46a6-b052-bfcf1b7ff5f4",
+                "resourcePath": "views\\6714f16d-62b4-4c50-bb85-2803bac04cec.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -508,6 +524,14 @@
                 "id": "69af70af-680d-4d04-9263-86d533b60475",
                 "resourcePath": "objects\/ob_bullet\/ob_bullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "91c3dd82-fe01-4d6e-b011-90a6ad4d5561",
+            "Value": {
+                "id": "368a598d-22bb-4691-a9df-b98f1c3cd1e0",
+                "resourcePath": "views\\91c3dd82-fe01-4d6e-b011-90a6ad4d5561.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -703,6 +727,14 @@
             }
         },
         {
+            "Key": "b69c6440-2ec6-4f1a-8421-1253ad8a0810",
+            "Value": {
+                "id": "6b3b4b63-729c-42db-8c62-b7f61b246958",
+                "resourcePath": "views\\b69c6440-2ec6-4f1a-8421-1253ad8a0810.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b7fb64b9-5203-42c2-92a1-435ab1c720c9",
             "Value": {
                 "id": "f7e00d9a-f805-4952-bd1e-2289c93fc08c",
@@ -751,6 +783,14 @@
             }
         },
         {
+            "Key": "ce0cfa6f-0572-4710-936a-c0a4d5d7278f",
+            "Value": {
+                "id": "91d1ec00-33c8-4916-88aa-fb7e376cd9e6",
+                "resourcePath": "sounds\\sd_playerShoot1\\sd_playerShoot1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cee469a7-e694-477e-82b2-e8cf7d7ba6ce",
             "Value": {
                 "id": "b93860b1-015f-49aa-b38d-ebf6702fc821",
@@ -780,6 +820,22 @@
                 "id": "86b52112-c536-4c8f-9031-f89489fac693",
                 "resourcePath": "sprites\/sp_top1\/sp_top1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4543b16-5804-4c2d-bbe4-0015fd378afe",
+            "Value": {
+                "id": "607e3248-dab2-45af-a31d-c101e321dbd7",
+                "resourcePath": "sounds\\sd_menuArrow\\sd_menuArrow.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d6a370fa-8613-45c0-bb0a-c8ffb0c4f4fe",
+            "Value": {
+                "id": "26346fcc-178f-4532-a7f5-1c693045e3a8",
+                "resourcePath": "sounds\\sd_gobActivate2\\sd_gobActivate2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -855,6 +911,14 @@
             }
         },
         {
+            "Key": "ee328f32-77cd-4e07-aad2-d5d20ff1370a",
+            "Value": {
+                "id": "38dd1e38-d667-4611-a2f5-43f43dd5aced",
+                "resourcePath": "sounds\\sd_gobActivate3\\sd_gobActivate3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "efad9851-bca6-4898-93a6-efacdc69a673",
             "Value": {
                 "id": "da644c0f-b473-49eb-8e30-180c58492886",
@@ -884,6 +948,14 @@
                 "id": "ce6ba0c8-6d4b-4ec6-971e-2c59e7d92c7c",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f85fc312-4353-406f-b47e-a773d8b0034b",
+            "Value": {
+                "id": "426aa713-0b23-4eec-b431-1f3dda7a0c80",
+                "resourcePath": "sounds\\sd_gobActivate1\\sd_gobActivate1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
