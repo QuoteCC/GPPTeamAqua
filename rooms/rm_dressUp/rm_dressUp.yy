@@ -2,7 +2,7 @@
 {
     "name": "rm_dressUp",
     "id": "e6e7e819-0290-4730-850a-a81887a173bb",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
