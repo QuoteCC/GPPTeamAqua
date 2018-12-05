@@ -12,7 +12,8 @@
         "b6149a4a-2c64-448c-ab61-32486fd8a597",
         "6b67e2b5-6706-4950-8eaa-5c11a94f3405",
         "fcfd604f-1401-42c1-adf2-b26bdde33eb1",
-        "39695d9b-1e07-4118-a901-d28f9265b596"
+        "39695d9b-1e07-4118-a901-d28f9265b596",
+        "30787a15-50bf-47bb-be42-cb94f3c03714"
     ],
     "filterType": "GMObject",
     "folderName": "g_body",
