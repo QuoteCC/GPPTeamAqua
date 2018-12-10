@@ -6,7 +6,8 @@
     "children": [
         "3b3364e5-d4c6-46ef-bf80-ea86b38e7f29",
         "46d0665b-11e6-4741-a161-39b6500ea6bb",
-        "343e28ca-3176-4386-868c-6ef8dc9f1d3b"
+        "343e28ca-3176-4386-868c-6ef8dc9f1d3b",
+        "19352c34-2457-4ea9-9fd0-ac44936c2ba5"
     ],
     "filterType": "GMSprite",
     "folderName": "clothing",

@@ -1,12 +1,10 @@
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 4BE5F5F7
-/// @DnDApplyTo : other
-with(other) instance_destroy();
+/// @DnDHash : 0355213A
+/// @DnDArgument : "code" "instance_destroy(other);$(13_10)currHP += 25;$(13_10)$(13_10)if currHP > hp{$(13_10)	currHP = hp;	$(13_10)}"
+instance_destroy(other);
+currHP += 25;
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 768ACA0B
-/// @DnDArgument : "expr" "powerUp+1"
-/// @DnDArgument : "var" "powerUp"
-powerUp = powerUp+1;
+if currHP > hp{
+	currHP = hp;	
+}
