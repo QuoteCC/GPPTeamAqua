@@ -8,7 +8,8 @@
         "61b6d83d-5aaf-4770-9190-f47d6dbca91d",
         "889f39ab-6518-4888-8c77-58061ea0acf4",
         "46cbf0eb-5967-4d34-bc01-da6b0b350990",
-        "fb82188a-b33a-4a52-a880-64b2cb38eaf5"
+        "fb82188a-b33a-4a52-a880-64b2cb38eaf5",
+        "faff0321-1be4-4d9d-af00-2cd337bfaf28"
     ],
     "filterType": "GMObject",
     "folderName": "shots",
